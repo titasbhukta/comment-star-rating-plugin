@@ -4,7 +4,7 @@ Plugin Name: Comment Star Rating Plugin By Titas Bhukta
 Description: Get a star rating system integrated with the WordPress Comments
 Version: 1.0.4
 Author: Titas Bhukta
-Author URI: https://titasbhukta.com
+Author URI: https://titasbhukta.com/
 */
 
 //Enqueue the plugin's styles.
